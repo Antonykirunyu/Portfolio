@@ -6,3 +6,9 @@ div.container{
     padding:3%;
     background-color:gray;
 }
+.top img{
+    width:auto;
+    height:auto;
+    background-color: white;
+    float: right;
+}
