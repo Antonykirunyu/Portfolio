@@ -26,3 +26,8 @@ h3{
     color:darkblue;
     margin-left:30%;
 }
+body{
+    background-color: rgb(185, 158, 108);
+    width: 100%;
+    overflow-x: hidden;
+}
