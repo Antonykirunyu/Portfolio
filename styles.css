@@ -12,3 +12,12 @@ div.container{
     background-color: white;
     float: right;
 }
+h1{
+    font-size:50px;
+    color:white;
+}
+h2{
+    font-size:50px;
+    color:darkblue;
+    margin-left:14%;
+}
