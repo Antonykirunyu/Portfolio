@@ -47,3 +47,15 @@ body{
     font-family: 'Cabin', sans-serif;
     font-family: 'Russo One', sans-serif;
 }
+span{
+    color:rgb(8, 8, 68);
+}
+.portion{
+    margin-left:15%;
+    justify-content: space-evenly;
+}
+.tony p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:20px;
+    color:white;
+}
