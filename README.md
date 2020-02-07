@@ -17,4 +17,6 @@ The project is created with;
 ### Link 
 * https://antonykirunyu.github.io/Portfolio/
 
+###### Licence info;
 
+Copyright(c) 2020 Antony Kirunyu
