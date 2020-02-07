@@ -1,49 +1,110 @@
-div.container{
-    position: relative;
-    width: 100%;
-    height: 100%;
-    border-top: 4px solid rgb(11, 45, 235);
-    padding:3%;
-    background-color:gray;
-}
-.top img{
-    width:auto;
-    height:auto;
+
+.topnav {
+    overflow: hidden;
+    background-color:orange;
+    position: fixed;;
+    padding-top: 20px;
+    width:100%;
+    height: auto;
+    margin-bottom: 10px;
+   
+    
+    
+  }
+  .tony{
+      float: center;
+      display: inline-flex;
+      margin-left: 20px;
+
+  }
+  .topnav a {
+    float: left;
+    color: darkblue;
+    text-align: center;
+    text-decoration: none;
+    font-size: 40px;
+    margin-left: 10%;
+    display:block;
+  }
+  .topnav a:hover {
     background-color: white;
-    float: right;
+    color: black;
+  }
+.container a{
+    margin: 15px;
+}
+img{
+    width:100%;
+    margin-top: 6px; 
+}
+p{
+    color: white;
+    
 }
 .top2{
     color: white;
+    font-size:30px;
+    margin-left:14%;
 }
 h1{
-    font-size:50px;
-    color:white;
+    font-size:120px;
+    color:darkblue;
+    padding-top: 4%;
 }
 h2{
+    font-size:80px;
+    color: darkblue;
+    margin-left:23%;
+    
+}
+h3{
+    font-size:50px;
+    color: darkblue;
+    margin-left:38%;
+}
+
+.container a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+h4{
     font-size:50px;
     color:darkblue;
     margin-left:14%;
+    
 }
-h3{
-    font-size:40px;
-    color:darkblue;
-    margin-left:30%;
+.active2 {
+    padding-right:250px;
+    padding-left: 150px;
+    margin-top:4%;
+    margin-left:20%;
+    width:40%;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    text-align:center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
-h4{
-    font-size:30px;
-    color:darkblue;
-    margin-left:14%;
+.both{
+    font-size:50px;
+    color: darkblue;
+    margin-left:23%;
 }
 body{
-    background-color: rgb(185, 158, 108);
+    background-color: transparent;
     width: 100%;
     overflow-x: hidden;
+    margin: 0px;
 }
-.bold{
-    padding-right:150px;
-    margin-top:2%;
-    margin-left:15%;
-    width:40%;
+.sam{
+    margin-left: 1px;
+}
+.active{
+    padding-right:0px;
+    margin-top:4%;
+    margin-left:20%;
+    width:50%;
+    padding-bottom: 50px;
+    padding-top: 50px;
     text-align:center;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
@@ -56,7 +117,7 @@ body{
     font-family: 'Russo One', sans-serif;
 }
 span{
-    color:rgb(8, 8, 68);
+    color:white;
 }
 .portion{
     margin-left:15%;
@@ -83,10 +144,10 @@ span{
     font-size:25px;
     color:darkblue;
     font-family: 'Rokkitt', serif;
-    margin-left:30%;
+    margin-left:33%;
 }
 footer{
-    background-color:gray;
+    background-color:orange;
     height: 100%;
     margin-bottom: 0px;
     padding-bottom: 40px;
@@ -99,6 +160,7 @@ li{
     margin-right:100px;
     list-style: none;
     color: gray;
+    font-size: 25px;
     
 }
 footer a:hover{
