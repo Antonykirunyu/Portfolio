@@ -15,7 +15,7 @@ The project is created with;
 * CSS
 
 ### Link 
-* https://antonykirunyu.github.io/Portfolio/
+* https://antonykirunyu.github.io/Portfolio-Landing-Page/
 
 ###### Licence info;
 
